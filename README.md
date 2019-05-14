@@ -1,0 +1,2 @@
+# yamlin
+YAML with inheritance 
